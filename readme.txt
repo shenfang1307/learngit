@@ -6,3 +6,4 @@ Git tracks changes.
  and simple
 hello
 merge
+a
