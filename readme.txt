@@ -5,3 +5,4 @@ Git tracks changes.
 20180412
  and simple
 hello
+merge
