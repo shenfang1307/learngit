@@ -7,3 +7,4 @@ Git tracks changes.
 hello
 merge
 a
+hello
