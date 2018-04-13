@@ -8,3 +8,4 @@ hello
 merge
 a
 hello
+hi
